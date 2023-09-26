@@ -9,7 +9,7 @@ Para utilizar nuestra plataforma de comercio electrónico, siga estos sencillos 
     - Navegue por nuestras categorías de productos para encontrar lo que necesita.
 
 3. **Añadir al Carrito:**
-    - Haga clic en "Agregar al carrito" en los productos que desea comprar. Todos estos productos se sumarizaran luego para poder empezar el proceso de compra.	
+    - Haga clic en "Agregar al carrito" en los productos que desea comprar.
 
 4. **Proceso de Compra:**
     - Vaya al carrito de compras y haga clic en "Pagar" para completar su compra.
