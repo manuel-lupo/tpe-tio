@@ -14,19 +14,4 @@
             "contrasena": "contrasena2"
         }
     ]
-    "usuarios premium": [
-        {
-            "id": 10,
-            "nombre": "UsuarioPremium1",
-            "correo": "usuario10@example.com",
-            "contrasena": "contrasena100"
-        },
-        {
-            "id": 11,
-            "nombre": "UsuarioPremium2",
-            "correo": "usuario11@example.com",
-            "contrasena": "contrasena32"
-        }
-    ]
-
 }
