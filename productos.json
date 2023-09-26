@@ -1,6 +1,6 @@
 // Datos de productos en formato JSON
 {
-    "productos": [
+    "productos en oferta": [
         {
             "id": 1,
             "nombre": "Producto 1",
@@ -19,5 +19,28 @@
             "descripcion": "Descripción del Producto 3",
             "precio": 9.99
         }
+    ]
+    "productos": [
+        {
+            "id": 21,
+            "nombre": "Producto 21",
+            "descripcion": "Descripción del Producto 21",
+            "precio": 43.40
+
+         },
+        {
+            "id": 43,
+            "nombre": "Producto 43",
+            "descripcion": "Descripción del Producto 43",
+            "precio": 15.50
+
+         },
+        {
+            "id": 455,
+            "nombre": "Producto 455",
+            "descripcion": "Descripción del Producto 455",
+            "precio": 87.60
+
+         }
     ]
 }
